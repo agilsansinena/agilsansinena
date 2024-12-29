@@ -1,16 +1,29 @@
-## Hi there 👋
+🌟 ¡Hola, soy Alvaro Gil! 🌟
+¡Bienvenido a mi rincón en GitHub! 🎉 Soy un apasionado del desarrollo y la tecnología, y aquí comparto mis proyectos, ideas y todo lo que me inspira. Si buscas código innovador, soluciones creativas o simplemente quieres conectar con un desarrollador curioso, ¡has llegado al lugar correcto!
 
-<!--
-**agilsansinena/agilsansinena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ¿Quién soy?
+Soy un desarrollador web, con un amor profundo por el código. Siempre estoy aprendiendo, creando y desafiándome a mí mismo para resolver problemas complejos de manera eficiente y elegante. 🚀
 
-Here are some ideas to get you started:
+Mis especialidades incluyen:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 PHP,Java,Javascript entre otras
+🌱 Aprendiendo constantemente porque siempre hay algo nuevo por descubrir
+
+🌱 Intereses
+Soy un eterno curioso y siempre en busca de nuevos retos. Algunos de mis intereses son:
+
+🤖 Inteligencia Artificial
+🌐 Desarrollo web y tecnologías backend
+🔐 Ciberseguridad
+
+🛠️ Herramientas que uso:
+💻 Editor de código: VSCode y Eclipse
+🌐 Lenguajes de programación: PHP, Java , HTML, CSS, JavaScript, SQL
+🔧 Otras herramientas: Docker, Git, Figma, Bootstrap.
+💬 ¿Te gustaría colaborar conmigo?
+Si tienes ideas, proyectos interesantes o simplemente quieres hablar sobre código, ¡no dudes en contactarme! Estoy siempre abierto a nuevas colaboraciones y oportunidades. Además, ¡los pull requests son siempre bienvenidos! 😎
+
+📫 ¿Cómo contactarme?
+✉️ Correo electrónico: agilsansinena@gmail.com
+🌐 https://agilsansinena.github.io/DIW_AlvaroGil/portfolio/index.html
+¡Gracias por visitar mi perfil! 💻💡
